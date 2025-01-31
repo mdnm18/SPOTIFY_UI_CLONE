@@ -2,7 +2,7 @@
 SPOTIFY UI CLONE
 
 
-# 🎵 Spotify Clone Project 🚀
+# 🎵 Spotify UI Clone Project 🚀
 
 ## 🌟 Project Constellation
 ```
